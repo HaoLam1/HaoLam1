@@ -1,4 +1,4 @@
-# Hello!:
+# Hello!
 I'm a Data Analyst with a passion for A.I and Human Behavior
 
 
@@ -10,7 +10,6 @@ I'm a Data Analyst with a passion for A.I and Human Behavior
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HaoLam1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HaoLam1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoLam1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
