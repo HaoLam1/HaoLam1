@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello!:
 I'm a Data Analyst with a passion for A.I and Human Behavior
 
 
