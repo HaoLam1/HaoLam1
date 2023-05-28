@@ -1,5 +1,4 @@
 # Hello, World!
-## I'm Lam and currently I'm a Data Analyst with a passion for A.I and Human Behavior
 
 [Instagram](https://www.instagram.com/haolammm/)
 
